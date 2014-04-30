@@ -13,7 +13,7 @@
  *
  * @category   OpenCart
  * @package    OCU Static Sitemap Generator
- * @copyright  Copyright (c) 2011 Eugene Kuligin by OpenCart Ukrainian Community (http://opencart-ukraine.tumblr.com)
+ * @copyright  Copyright (c) 2011 Eugene Lifescale by OpenCart Ukrainian Community (http://opencart-ukraine.tumblr.com)
  * @license    http://www.gnu.org/copyleft/gpl.html     GNU General Public License, Version 3
  * @version    $Id: sitemapgen.php 1.2 2011-12-11 22:34:40
  */
@@ -23,7 +23,7 @@
 /**
  * @category   OpenCart
  * @package    OCU Static Sitemap Generator
- * @copyright  Copyright (c) 2011 Eugene Kuligin by OpenCart Ukrainian Community (http://opencart-ukraine.tumblr.com)
+ * @copyright  Copyright (c) 2011 Eugene Lifescale by OpenCart Ukrainian Community (http://opencart-ukraine.tumblr.com)
  * @license    http://www.gnu.org/copyleft/gpl.html     GNU General Public License, Version 3
  */
 
